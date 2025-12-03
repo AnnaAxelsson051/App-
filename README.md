@@ -1,3 +1,10 @@
+<!--
+
+Titel: App-Store
+
+Beskrivning:
+Full stack E-commerce platform with distinct customer and admin logins, enabling filtering, purchasing, email confirmation for customers, and admin product/order management (Spring Boot, Java, Thymeleaf, JPA, Spring mail, MYSQL, HTML & Css)
+
 # App Store
 
 ## User Interface
@@ -32,4 +39,4 @@ A full stack E-Commerce App Store with separate login for customers and administ
 ![User Interface](user-interface3.png)
 
 
-
+-->
